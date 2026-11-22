@@ -1,0 +1,147 @@
+.qu-trainer-editor {
+  background: #fffee7;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+
+  .qu-trainer-editor-item-option-line {
+    border: 2px solid #a0c2e3;
+    margin-bottom: 45px;
+    padding: 15px;
+    border-radius: 5px;
+  }
+
+  .qu-trainer-editor-base64-wrapper {
+
+    .qu-trainer-editor-base64-button {
+      background-color: white;
+    }
+  }
+
+  .qu-trainer-editor-accordion-body {
+    background-color: #efffef;
+
+    .qu-trainer-editor-cardinality-container {
+      background-color: white;
+    }
+
+    .qu-trainer-editor-option-container {
+      background-color: white;
+    }
+  }
+
+  .tip-text {
+    color: blue;
+    font-style: italic;
+  }
+
+  .quqtrainereditor-editor-preview {
+    background-color: white;
+  }
+
+  .qu-trainer-editor-item-prompt-block-container {
+    background-color: white;
+  }
+
+  .qu-trainer-editor-item-line-container {
+    border: 1px solid #dee2e6 !important;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    background: #fff5ff;
+    padding-left: 10px;
+
+    textarea {
+      height: 38px;
+    }
+
+    button {
+      max-height: 38px;
+    }
+
+    .qu-trainer-editor-item-line-container-item-line-type {
+      padding: 10px;
+      margin-bottom: 15px;
+    }
+  }
+
+  .qu-qtrainer-editor-feedback-block {
+    background: white;
+
+    .qu-qtrainer-editor-feedback-block-textarea {
+      width: 100%;
+      border: none;
+    }
+
+    .qu-qtrainer-editor-feedback-block-textarea:focus {
+      width: 100%;
+      border: none;
+      outline: none;
+    }
+  }
+}
+
+.quqtrainereditor-manual-editor {
+
+  background-color: #efffef;
+
+  .non-valid-message {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .error-message {
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+  }
+}
+
+.quqtrainereditor-manual-editor-txt-area {
+  resize: vertical;
+  min-height: 500px;
+  min-width: 100%;
+  border: 1px solid cyan;
+  outline: none;
+
+  -webkit-box-shadow: none;
+  box-shadow: none;
+
+  border-radius: 15px 15px 15px 15px;
+
+  overflow: auto;
+
+  background: white;
+
+  &:hover, &:focus, &:focus-visible {
+    border: 2px solid cyan;
+  }
+
+  &::-webkit-scrollbar {
+    background: transparent;
+  }
+}
+
+.quqtrainereditor-manual-editor-txt-area-error {
+  min-height: 500px;
+  min-width: 100%;
+  border: 2px solid red;
+  background-color: greenyellow;
+  color: red;
+  outline: none;
+
+  -webkit-box-shadow: none;
+  box-shadow: none;
+
+  border-radius: 15px 15px 15px 15px;
+
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+  }
+}

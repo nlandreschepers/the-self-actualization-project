@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="1OuoZcvDDfgpA6u7qTLH">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-1" parent="1" style="swimlane;startSize=0;verticalAlign=top;" value="&lt;&lt; interaction item &gt;&gt;" vertex="1">
+          <mxGeometry height="740" width="470" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-2" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Feedback" vertex="1">
+          <mxGeometry height="60" width="350" x="60" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-3" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Submit interaction (i.e. button for example)" vertex="1">
+          <mxGeometry height="60" width="210" x="60" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-4" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Options (SINGLE / PLURAL) ( i.e. checkbox / radio )" vertex="1">
+          <mxGeometry height="100" width="350" x="60" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-5" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Prompt" vertex="1">
+          <mxGeometry height="60" width="350" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-6" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Title" vertex="1">
+          <mxGeometry height="60" width="350" x="60" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pk8ZBRJE0eKI4dkJusOq-7" parent="pk8ZBRJE0eKI4dkJusOq-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="Continue interaction" vertex="1">
+          <mxGeometry height="60" width="210" x="60" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

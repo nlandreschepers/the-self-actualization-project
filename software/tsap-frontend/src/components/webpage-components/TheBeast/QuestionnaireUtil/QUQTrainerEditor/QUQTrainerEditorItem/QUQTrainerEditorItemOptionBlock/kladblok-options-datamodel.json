@@ -1,0 +1,34 @@
+{
+  "options": [
+    {
+      "id": "01a1012e-2e97-72db-9541-a97aed2c2b64",
+      "optionItemLines": [
+        {
+          "id": "cabef3c1-849f-48e5-a704-4303a472eaaa",
+          "text": "New item prompt text line 1a.",
+          "type": "AGGREGATE_TEXT_LINE_TYPE_PLAIN_TEXT"
+        },
+        {
+          "id": "63188e9c-ba71-4580-9bbc-4dc301acdbbb",
+          "text": "\\sum_{i=1}^{n} x_i \\quad \\prod_{i=1}^{n} x_i \\quad \\int_{a}^{b} f(x) dx",
+          "type": "AGGREGATE_TEXT_LINE_TYPE_KATEX"
+        }
+      ]
+    },
+    {
+      "id": "01a1012e-5bd6-76b6-a0bc-6167320cf102",
+      "optionItemLines": [
+        {
+          "id": "cabef3c1-849f-48e5-a704-4303a472ed1d",
+          "text": "New item prompt text line.2a",
+          "type": "AGGREGATE_TEXT_LINE_TYPE_PLAIN_TEXT"
+        },
+        {
+          "id": "63188e9c-ba71-4580-9bbc-4dc301acd11c",
+          "text": "\\sum_{i=1}^{n} x_i \\quad \\prod_{i=1}^{n} x_i \\quad \\int_{a}^{b} f(x) dx",
+          "type": "AGGREGATE_TEXT_LINE_TYPE_KATEX"
+        }
+      ]
+    }
+  ]
+}
